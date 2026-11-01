@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.netlify/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+Arun_Varshan_Resume.docx
+RESUME.md
